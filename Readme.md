@@ -1,44 +1,21 @@
-# IPL Data Project
+# IPL Data Analysis with Highcharts
+## Description
+This repository contains an IPL data analysis project. It includes data processing, visualization, and a simple web app for displaying the data using Highcharts.
 
-## Overview
+## Usage
 
-The IPL Data Project is a Node.js application that allows you to retrieve and analyze Indian Premier League (IPL) cricket data from a CSV file. This project demonstrates how to use Node.js and JavaScript to parse CSV data, and perform data analysis. 
+1. Open the terminal to the below directory.
+    ``` 
+    cd src/public/index.html
+2. Open the `index.html` file in your web browser to view the Highcharts visualization.
+3. Use Visual Studio Code for a smoother experience, follow these steps:
 
-## Features
+   - Make sure you have the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension installed in VS Code.
+   - Right-click on `index.html` in VS Code.
+   - Select "Open with Live Server" to run the visualization.
 
-- Parse IPL cricket data from a CSV file.
-- Perform data analysis and generate statistics.
+Explore the IPL data analysis using Highcharts right from Visual Studio Code!
 
-## Prerequisites
-
-Before you begin, ensure you have the following prerequisites installed on your system:
-
-- Node.js: Make sure you have Node.js installed. You can download it from [nodejs.org](https://nodejs.org/).
-
-## Getting Started
-
-1. Clone the repository:
-
-   ```ruby
-    git clone https://github.com/meshafi/Ipl-Data-Project-1.git
-   ``` 
-   
-3. Change into the project directory:
-   ```ruby
-   cd Ipl-Data-Project-1
-   ```
-4. Install project dependencies:
-   ```ruby
-   npm install
-   ```
-5. Run the application:
-    ```ruby
-    node index.js
-    ```
-### Running Test Cases
-- To run test cases, you can use the following command:
-	```ruby 
-	npm test
 
 
 
